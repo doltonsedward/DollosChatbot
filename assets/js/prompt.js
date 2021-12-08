@@ -68,9 +68,7 @@ const alternative = [
 ]
 
 // masih planning
-const happyness = [
-    "haha"
-]
+const happyness = [ "haha" ]
 
 // sesi ngoding
 var date;
